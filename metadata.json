@@ -1,0 +1,5 @@
+{
+  "name": "StockPrompt Pro",
+  "description": "Aplikasi generator prompt dan metadata berbasis AI untuk kontributor Microstock (Adobe Stock, Shutterstock). Mengubah gambar/PDF menjadi prompt berkualitas tinggi.",
+  "requestFramePermissions": []
+}
